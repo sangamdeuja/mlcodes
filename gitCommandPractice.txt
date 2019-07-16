@@ -1,0 +1,397 @@
+    1  cd
+    2  ls
+    3  cd .
+    4  cd
+    5  whoami
+    6  unname
+    7  uname
+    8  cd ..
+    9  cd
+   10  cat /.profile
+   11  cat .prodfile
+   12  cat .profile
+   13  exit
+   14  cd
+   15  cd ..
+   16  cd .. && cd ..
+   17  cd
+   18  cd..
+   19  cd .
+   20  ls
+   21  cd Desktop
+   22  ls
+   23  cd ..
+   24  cd Documents
+   25  s
+   26  ls
+   27  cd Documents
+   28  ls
+   29  dir
+   30  ls
+   31  cd .
+   32  cd
+   33  cd Pictures
+   34  ls
+   35  cd
+   36  cd pycharm
+   37  ls
+   38  cd index
+   39  ls
+   40  cd Python
+   41  ls
+   42  cd.
+   43  cd
+   44  whoami
+   45  sudo whomai
+   46  sudo whoami
+   47  top
+   48  df
+   49  du
+   50  free
+   51  widget https::/www.google.com.robots.txt
+   52  wget https::/www.google.com.robots.txt
+   53  wget https:/www.google.com.robots.txt
+   54  wget https://www.google.com/robots.txt
+   55  ls
+   56  curl facebook.com
+   57  ls
+   58  curl google.com
+   59  ls
+   60  nslookup google.com
+   61  which pyhton
+   62  which python
+   63  which python -D
+   64  which python-D
+   65  python -D
+   66  ps
+   67  pip install numpy
+   68  sudo VboxClient -all stop
+   69  sudo VBoxClient -all stop
+   70  sudo VBoxClient-all stop
+   71  ls
+   72  mkdir learn_integrify
+   73  ls
+   74  cd learn_integrify
+   75  ls
+   76  git congig --global user.name "sangam deuja"
+   77  git --help
+   78  git config
+   79  git config --global user.name
+   80  git config --list
+   81  git config --list --show-origin
+   82  git config
+   83  git config --global user.name "sangam deuja"
+   84  git config --global user.name "sangam"
+   85  git config --list
+   86  git config --global user.name "sangam deuja"
+   87  git config --global user.email "sangamad1@gmial.com"
+   88  git config --global user.email "sangamad1@gmail.com"
+   89  git config --global core.editor Pycharm
+   90  git config --list
+   91  git intit
+   92  git init
+   93  git add /home/PycharmProjects/pro_1/*.py
+   94  cd home
+   95  cd .
+   96  getwd
+   97  cd .
+   98  cd ..
+   99  path
+  100  wd
+  101  getwd
+  102  pwd
+  103  cd.
+  104  cd..
+  105  cd .
+  106  pwd
+  107  cd ..
+  108  ls
+  109  cd data
+  110  ls
+  111  cd data
+  112  cd home
+  113  pwd
+  114  cd learn_integrify
+  115  git add /home/data/PycharmProjects/pro_1/*.py
+  116  git add home/data/PycharmProjects/pro_1/*.py
+  117  cd add
+  118  git add Home/data/PycharmProjects/pro_1/*.py
+  119  git add *.py
+  120  sangam
+  121  ls
+  122  touch README.md
+  123  ls
+  124  nano README.md
+  125  ls
+  126  Pycharm exe1.py
+  127  git commit
+  128  git commit -m "first_repoAtItegrify"
+  129  git status
+  130  git add README.md
+  131  git commit -m "added Readme file"
+  132  status
+  133  git status
+  134  git branch development
+  135  git status
+  136  git checkout development
+  137  git status
+  138  git checkout master
+  139  git help -all status
+  140  git help --all status
+  141  git help --status
+  142  git help --info
+  143  git help --status
+  144  git help status
+  145  git help status --long
+  146  git log
+  147  git log --oneline
+  148  git log --stat
+  149  git log -p
+  150  git show
+  151  git status
+  152  git config --global core.editor "/home/data/Pycharm"
+  153  git config --list
+  154  git checkout development
+  155  git add abc.txt
+  156  git add "abc.txt"
+  157  nano "file.txt"
+  158  git add .
+  159  status
+  160  git status
+  161  git commit
+  162  git config --global core.editor "/home/data/PyCharm"
+  163  git commit
+  164  git config --global core.editor "/home/Pycharm"
+  165  git commit
+  166  cd ..
+  167  cd home
+  168  ls
+  169  cd pycharm
+  170  ls
+  171  cd .
+  172  cd..
+  173  cd ..
+  174  cd learn_integrify
+  175  cd ..
+  176  pwd
+  177  cd learn_integrify
+  178  git config --global core.editor "/home/data/Pycharm"
+  179  git commit
+  180  pycharm
+  181  ./pycharm
+  182  PyCharm
+  183  ls
+  184  cd
+  185  ls
+  186  cd pycharm
+  187  ls
+  188  cd bin
+  189  ls
+  190  ./pycharm.sh
+  191  q
+  192  cd
+  193  git config --global core.editor "/home/data/Pycharm/bin/pycarm"
+  194  git config --global core.editor "/home/data/Pycharm/bin/pycharm.sh"
+  195  cd learn_integrify
+  196  git commit
+  197  git config --global core.editor "/home/data/pycharm/bin/pycharm.sh"
+  198  git commit
+  199  git status
+  200  git log
+  201  git log --online
+  202  git log --oneline
+  203  git checkout master
+  204  history
+  205  ls
+  206  git checkout development
+  207  ls
+  208  git checkout master
+  209  git merge development
+  210  ls
+  211  git checkout
+  212  cd .
+  213  cd
+  214  git clone https://github.com/sangamdeuja/the-unix-workbench
+  215  cd learn_integrify
+  216  cd
+  217  cd the-unix-workbench
+  218  cd
+  219  cd learn_integrify
+  220  git branch development2
+  221  git checkout
+  222  git branch
+  223  git --log graph
+  224  git log --graph --oneline
+  225  git log --oneline --decorate --graph --all
+  226  git checkout development2
+  227  ls
+  228  rem file.txt README.md
+  229  rm file.txt README.md
+  230  ls
+  231  git checkout master
+  232  dir
+  233  ls
+  234  git checkout development2
+  235  git add
+  236  git commit
+  237  ls
+  238  git branch
+  239  git checkout master
+  240  ls
+  241  git add README.md file.txt
+  242  git commit
+  243  git ls
+  244  ls
+  245  git checkout development
+  246  ls
+  247  git rm file.txt
+  248  git commit "filetxt removed"
+  249  git commit -m "file.txt removed"
+  250  ls
+  251  git log --oneline --decorate --graph --all
+  252  cd 
+  253  cd learn_integrify
+  254  cd
+  255  rm learn_integrify
+  256  rmdir learn_integrify
+  257  cd 
+  258  cd .
+  259  cd learn_integrify
+  260  cd
+  261  rm -r learn_integrify
+  262  ls
+  263  mk dir learn_Integrify
+  264  mkdir learn_Integrify
+  265  cd learn_integrify
+  266  cd learn_Integrify
+  267  mkdir mlcodes
+  268  history -c
+  269  cd mlcodes
+  270  cd
+  271  cd learn_Integrify
+  272  ls
+  273  cd mlcodes
+  274  git config --global user.name "sangam deuja"
+  275  git config --global user.email "sangamad1@gmail.com"
+  276  cd
+  277  pwd
+  278  cd learn_Integrify
+  279  cd mlcodes
+  280  git config --global core.editor "/home/data/pycharm/bin/pycharm.sh"
+  281  git init
+  282  git config --List
+  283  git config --list'\n\nq
+  284  git config --list\n\nq
+  285  ls
+  286  git add *.py
+  287  git commit -m "added first 3 python exercises"
+  288  git branch sidebar
+  289  git checkout sidebar
+  290  git add "/home/data/PycharmProjects/pro_1/exe4.py"
+  291  move /home/data/PycharmProjects/pro_1/exe4.py exe4.py
+  292  mv /home/data/PycharmProjects/pro_1/exe4.py exe4.py
+  293  git commit -m "exercise 4 addded"
+  294  git add exe4.py
+  295  git commit -m "exercise 4 added"
+  296  mv /home/data/PycharmProjects/pro_1/exe5.py exe5.py
+  297  git add exe5.py
+  298  git commit -m "exercise 5 added"
+  299  git checkout masterd
+  300  git checkout master
+  301  git branch
+  302  git status
+  303  git log
+  304  git log --oneline
+  305  git log --p
+  306  git log -p
+  307  git log --stat
+  308  cd ./learn_Integrify
+  309  cd
+  310  cd learn_Integrify
+  311  pwd
+  312  git clone https://github.com/sangamdeuja/the-unix-workbench
+  313  cd mlcodes
+  314  git checkout sidebar
+  315  git log
+  316  git log --oneline
+  317  ls
+  318  git checkout master
+  319  ls
+  320  git checkout sidebar
+  321  git log --stat
+  322  git log --online --graph --decorate --all
+  323  git log --oneline --graph --decorate --all
+  324  git log
+  325  git log --oneline --decorate --graph -all
+  326  git log --oneline --decorate --graph --all
+  327  git checkout master
+  328  mv /home/data/PycharmProjects/pro_1/exe6.py exe6.py
+  329  git add exe6.py
+  330  git commit -m "exercise 6 added"
+  331  git log --oneline --decorate --graph --all
+  332  git merge master
+  333  git merge sidebar
+  334  git log --oneline --decorate --graph --all
+  335  git tag -a version_1.0
+  336  git tag
+  337  git log --all
+  338  git log --oneline
+  339  nano 
+  340  git add .
+  341  git commit -m "readme file added"
+  342  nano README.md
+  343  git commit --ammend
+  344  git commit --amend
+  345  git log --oneline
+  346  ls
+  347  git commit --amend
+  348  git add README.md
+  349  git commit -m "readme file added"
+  350  git log --oneline
+  351  HEAD^^
+  352  git HEAD^^
+  353  git checkout HEAD^^2
+  354  git checkout HEAD^^3
+  355  git checkout HEAD~2
+  356  checkout
+  357  git checkout
+  358  git checkout master
+  359  git branch anotherbranch
+  360  nano README.md
+  361  git status
+  362  git stash
+  363  git status
+  364  git stash --list
+  365  git stash list
+  366  git stash drop
+  367  git remote
+  368  git remote -v
+  369  git log --oneline
+  370  git remote add origin https:/github.com/sangamdeuja/Integrify-warmup-exercises
+  371  git remote -v
+  372  git push origin master
+  373  git remote add origin https://github.com/sangamdeuja/Integrify-warmup-exercises
+  374  git remote add origin https://github.com/sangamdeuja/Integrify-warmup
+  375  git remote rm
+  376  git remote add origin https://github.com/sangamdeuja/Integrify-warmup.git
+  377  git remote rm origin
+  378  git remote add origin https://github.com/sangamdeuja/Integrify-warmup.git
+  379  git push origin
+  380  git push origin master
+  381  git push -u origin master
+  382  git remote rm origin
+  383  cd 
+  384  cd learn_Integrify
+  385  git remote add origin https://github.com/sangamdeuja/mlcodes.git
+  386  cd mlcodes
+  387  git remote add origin https://github.com/sangamdeuja/mlcodes.git
+  388  git push -u origin master
+  389  git fetch origin master
+  390  git pull origin master
+  391  cd 
+  392  cd learn_Integrify
+  393  git fork https://github.com/alarivarmann/Machine_Learning
+  394  git clone https://github.com/alarivarmann/ml_demos.git
+  395  ls
+  396  cd ml_demos
+  397  history -w ~/history.txt
